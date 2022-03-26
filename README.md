@@ -1,0 +1,2 @@
+# AviutlSingleWindowPlugin
+Aviutlをシングルウィンドウにするプラグイン
